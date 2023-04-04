@@ -1,0 +1,6 @@
+entrypoint = "main.go"
+
+modules = ["go"]
+
+[gitHubImport]
+requiredFiles = [".replit"]
