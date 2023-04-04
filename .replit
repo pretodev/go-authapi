@@ -1,4 +1,4 @@
-entrypoint = "main.go"
+entrypoint = "src/main.go"
 
 modules = ["go"]
 
